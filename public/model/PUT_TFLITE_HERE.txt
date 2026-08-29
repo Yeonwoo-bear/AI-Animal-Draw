@@ -1,0 +1,3 @@
+기존 v13에서 실제로 사용 중인 fixed-shape 모델을 이 폴더에 복사하세요.
+파일명: animal_draw_v11.tflite
+입력 shape: [1, 64, 64, 1]

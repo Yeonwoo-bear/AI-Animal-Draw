@@ -1,0 +1,21 @@
+{
+  "name": "ai-animal-draw-v14",
+  "private": true,
+  "version": "14.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@litertjs/core": "2.5.3",
+    "@mediapipe/tasks-vision": "1.0.1",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.0.2",
+    "vite": "^8.1.0"
+  }
+}
